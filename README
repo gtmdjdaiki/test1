@@ -1,0 +1,7 @@
+Enter file contents here
+#include <sidio.h>
+
+void main()
+{
+  puts("testhogehoge");
+}
